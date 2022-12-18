@@ -1,0 +1,27 @@
+
+.leftContent {
+    /* background-color: blueviolet; */
+    width: 50%;
+    height: 47vh;
+    margin: -2% 9%;
+}
+.leftContent button {
+    margin: 8% 32%;
+    width: 8rem;
+    height: 2.2rem;
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+}
+.leftContent button:hover {
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+}
+#heading {
+    font-size: 50px;
+}
+#para {
+    letter-spacing: 1.1px;
+    font-weight: 200;
+}
