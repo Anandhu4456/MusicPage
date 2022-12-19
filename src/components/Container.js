@@ -1,5 +1,6 @@
 import React from "react";
 import LeftContent from "./LeftContent";
+import RightContent from "./RightContent";
 
 
 export default function Container() {
@@ -15,6 +16,7 @@ export default function Container() {
       </ul>
     </nav>
     <LeftContent />
+    <RightContent />
     </div>
   </div>;
 }
